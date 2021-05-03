@@ -5,4 +5,4 @@ This project was done as a final project for MAT4930 Topological Data Analysis t
 
 The goal of this project was to compute persistence homology to single-cell RNA-sequencing samples to be able to detect changes in cell types due to treatment of cells with a drug. 
 
-Please refer to the paper and/or slides in this repository for details on background of the methods applied and results.
+Please refer to the [paper](https://github.com/keshav-motwani/scTDA/blob/master/paper.pdf) and [slides](https://github.com/keshav-motwani/scTDA/blob/master/slides.pdf) in this repository for details on background of the methods applied and results.
