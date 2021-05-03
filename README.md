@@ -1,5 +1,5 @@
 # scTDA
-Applications of topological data analysis to single-cell genomics
+## Applications of topological data analysis to single-cell genomics
 
 This project was done as a final project for MAT4930 Topological Data Analysis taught by Professor Peter Bubenik. 
 
